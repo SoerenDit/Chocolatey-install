@@ -8,3 +8,4 @@ choco install miktex -y
 choco install texstudio -y
 choco install intellijidea-community -y
 choco install git.install -y
+choco install 7zip.install -y
