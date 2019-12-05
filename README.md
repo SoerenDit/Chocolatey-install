@@ -11,3 +11,4 @@ choco install git.install -y
 choco install 7zip.install -y
 choco install adobereader -y
 choco install vscode -y
+choco install vlc -y
