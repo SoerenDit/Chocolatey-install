@@ -13,3 +13,4 @@ choco install adobereader -y
 choco install vscode -y
 choco install vlc -y
 choco install geogebra6 -y
+choco install androidstudio
