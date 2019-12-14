@@ -12,3 +12,4 @@ choco install 7zip.install -y
 choco install adobereader -y
 choco install vscode -y
 choco install vlc -y
+choco install geogebra6 -y
